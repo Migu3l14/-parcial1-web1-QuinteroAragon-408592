@@ -10,14 +10,12 @@
 
 ## 📹 Video explicativo
 
-[Ver video aquí](https://link-al-video.com)  
-*(Reemplázalo por tu enlace de YouTube o Drive)*
+
 
 ---
 
 ## 🚀 Aplicación desplegada
 
-[https://parcial1-web1-aragon-408592.vercel.app](https://parcial1-web1-aragon-408592.vercel.app)  
-*(Se generará al desplegarlo en Vercel)*
+https://parcial1-web1-quintero-aragon-40859-rho.vercel.app/
 
 ---
