@@ -16,6 +16,6 @@
 
 ## 🚀 Aplicación desplegada
 
-https://parcial1-web1-quintero-aragon-40859-rho.vercel.app/
+https://parcial1-web1-quintero-aragon-40859-liart.vercel.app/
 
 ---
